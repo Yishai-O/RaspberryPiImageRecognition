@@ -1,5 +1,5 @@
 ﻿# Raspberry Pi Image and Facial Recognition
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+This project consists of a Raspberry Pi attached to a camera. The Raspberry Pi takes a picture with its camera and then analyzes that image using both image recognition and facial recognition. The user also has a an option to add a filter to the image, so any faces in the picture will have that filter applied to them.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
