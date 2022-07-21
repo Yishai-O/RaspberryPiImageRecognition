@@ -3,7 +3,7 @@ This project consists of a Raspberry Pi attached to a camera. The Raspberry Pi t
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Yishai O | Frisch | Engineering | Incoming Sophomore |
+| Yishai O | Frisch High School | Engineering | Incoming Sophomore |
 
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
   
