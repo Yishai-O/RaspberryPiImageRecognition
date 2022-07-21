@@ -18,7 +18,7 @@ My final milestone was to add filters to the facial recognition, so that wheneve
 # Second Milestone
 My second milestone was to get the facial recognition to work, along with the image recognition and camera. This was quite difficult, as I originally tried to use dlib for facial recognition, but everytime I tried to install dlib onto the Raspberry Pi, it would crash and time-out, and no matter what I did to try and get it to actually install, nothing would work. Therefore, I had to scrap the idea of using dlib and instead used OpenCV, which was less ideal but still worked well for facial recognition. After taking some code from the internet and modifying it to both work and to work with my camera, the Raspberry Pi was able to recognize a face, or multiple faces, and put a box around all the faces it sees. The Raspberry Pi is also still able to run image recognition as well as the facial recognition.
 
-[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Second Milestone][![Yishai O Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1658432168/video_to_markdown/images/youtube--X5k4yrxdcVY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/X5k4yrxdcVY  "Yishai O Milestone 2")
 # First Milestone
   
 
