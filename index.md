@@ -8,8 +8,7 @@ This project consists of a Raspberry Pi attached to a camera. The Raspberry Pi t
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
   <img width="234" alt="Screen Shot 2022-07-22 at 3 57 44 PM" src="https://user-images.githubusercontent.com/108901307/180518122-7ffbe5b0-c9c7-411e-8f18-9624ae64905a.png">
 
-[![Link To Code]]
-(https://github.com/Yishai-O/Face-Filter-Code)
+[![Link To Code]](https://github.com/Yishai-O/Face-Filter-Code)
   
 # Final Milestone
 My final milestone was to add filters to the facial recognition, so that whenever the Raspberry Pi detected a face in its picture, it would add a filter to the image, so each face would have either a dog, a cat, or a bunny on it. To do this, I had to change the facial recognition that my Raspberry Pi was using, so the code had to be majorly changed from what I had previously, but in the end, it was worth it, because, after adding the code for the filters, the Raspberry Pi could detect faces with pretty high accracy and add a filter of the users choice to it. Unfortunately, there were some problems with the bunny filter being a little bit off, but after some more time on it, it worked most of the time, and the dog and cat filters worked perfectly.
