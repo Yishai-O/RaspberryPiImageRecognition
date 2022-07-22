@@ -8,7 +8,7 @@ This project consists of a Raspberry Pi attached to a camera. The Raspberry Pi t
 ![Headstone Image](https://raw.githubusercontent.com/BlueStampEng/BSE_Template_Portfolio/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg)
   
 # Final Code
-![rp](https://user-images.githubusercontent.com/108901307/180510447-2306616a-bdb8-4b0a-850e-e0dd6640d916.jpeg)
+![IMG_0431 Small](https://user-images.githubusercontent.com/108901307/180511454-8ac1d0b8-c5b6-4bd9-96d2-c524b3a9f919.jpeg)
 
 https://github.com/Yishai-O/Face-Filter-Code
   
